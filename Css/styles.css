@@ -1,0 +1,63 @@
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size:16px;
+	margin-top:100px;
+}
+
+a {
+	color: #009ac7;
+}
+
+hr {
+	margin: 40px 0;
+}
+
+.splash-wrap {
+	text-align: center;
+}
+
+.logo-wrap {
+	text-align: center;
+}
+
+.logo-wrap .img-responsive {
+	display: inline-block;
+}
+
+.address {
+	text-align: center;
+	margin: 80px 0 30px 0;
+}
+
+.phone {
+	text-align: center;
+}
+
+.phone span {
+	color: #009ac7;
+}
+
+.contact {
+	float: left;
+	text-align: center;
+	width:50%;
+}
+
+header {
+	position: absolute;
+	top: 0;
+	left:0;
+	right:0;
+	height:10px;
+	background-color: #faa647;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	left:0;
+	right:0;
+	height:40px;
+	background-color: #6e6f72;
+}
